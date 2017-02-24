@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Text
 
 ## More Changes
+This is a new branch
+This is a second edit in new branch

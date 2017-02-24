@@ -12,3 +12,4 @@ Text
 
 ## More Changes
 This is a new branch
+This is a second edit in new branch
